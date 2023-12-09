@@ -1,0 +1,1 @@
+c'est un projet de simulateur de calcul des taux, qui consiste à calculer le capital amorti, l'intérêts, capital restant ainsi que la mensualité en fournissant le montant, le taux d'intérêt pour une année donné(durée du prêt)
